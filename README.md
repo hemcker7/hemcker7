@@ -1,16 +1,12 @@
 <div align="center">
 
-  <img src="./assets/banner-wide.jpg" alt="Soham Dhara — Systems · Vision · Robotics" width="100%" />
+  <img src="./assets/banner-wide.png" alt="Soham Dhara — Systems · Vision · Robotics" width="100%" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=72&section=header&animation=fadeIn" width="100%" alt="" />
 
   <h3>
-    <img src="./assets/lottie/satellite.gif" width="28" alt="" />
     Hi, I'm Soham
-    <img src="./assets/lottie/earth.gif" width="28" alt="" />
   </h3>
-
-  <img src="./assets/code-mark.png" width="40" alt="" />
 
   <br />
 
@@ -39,8 +35,6 @@
   </p>
 
 </div>
-
-<img src="./assets/quote-strip.jpg" alt="Build it. Understand it. Make it better." width="100%" />
 
 <p align="center">
 
@@ -140,10 +134,6 @@
 ## What I Build
 
 </div>
-
-<p align="center">
-  <img src="./assets/code-mark.png" width="32" alt="" />
-</p>
 
 <p align="center">
   I enjoy building systems where software meets hardware.
@@ -296,10 +286,8 @@
 | Project                  | What it does                                                                                     |
 | ------------------------ | ------------------------------------------------------------------------------------------------ |
 | [`SQLite C++`](#)        | SQLite-inspired database engine built from scratch in C++                                        |
-| [`Pothole Patrol`](#)    | Computer-vision project focused on detecting road potholes                                       |
 | [`Mission Planner`](#)   | Web-based ground control and mission-planning system for autonomous drone operations             |
 | [`RubyFPV`](#)           | Raspberry Pi-based FPV system and embedded Linux development                                     |
-| [`YoloWebApp`](#)        | YOLO-based object detection using images, video, and webcam input                                |
 | [`JUSENSE 3D Studio`](#) | 3D-printing platform with STL/3MF upload, filament selection, infill and cost calculation        |
 | [`Drone Systems`](#)     | Autonomous UAV experiments involving Pixhawk, ArduPilot, computer vision and companion computers |
 
