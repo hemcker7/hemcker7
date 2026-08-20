@@ -155,7 +155,7 @@
   <tr>
     <td width="50%" valign="top">
 
-```
+
   <h3>Autonomous Disaster Management Drone</h3>
 
   <b>Jetson · YOLO · Pixhawk · ArduPilot · MAVLink</b>
@@ -199,7 +199,7 @@
   </sub>
 
 </td>
-```
+
 
   </tr>
 </table>
